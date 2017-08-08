@@ -1,1 +1,3 @@
-console.log('Loaded!');
+function click(){
+    alert('this is a alert box');
+}
